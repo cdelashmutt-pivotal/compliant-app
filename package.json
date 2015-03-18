@@ -1,0 +1,8 @@
+{
+	  "name": "compliant-app",
+	    "version": "0.0.1",
+	      "description": "node buildpack integration test app",
+		    "engines": {
+			        "node": "~0.10.0"
+					  }
+}
